@@ -16,6 +16,10 @@ const createNewWorkout = (newWorkout) => {
   return newWorkout
 }
 
+const updateOneWorkout = () => {
+  return
+}
+
 module.exports = {
   getAllWorkouts,
   createNewWorkout,
